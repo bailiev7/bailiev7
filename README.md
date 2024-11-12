@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=https://media.i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmg3eGs5N2FhdjV0aTZkZ25vN2lta3Q5cHZoNGNxNXR5N2QzbTVmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif>
+  <img src=https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif>
 </div>
 
 Hello! I'm Bailiev Allanazar Babahanovich,
