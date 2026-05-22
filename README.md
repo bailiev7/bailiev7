@@ -61,8 +61,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bailiev)
 [![Почта](https://img.shields.io/badge/Почта-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:a.baylyyew05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bailiev7)
-[![X.Com](https://img.shields.io/badge/Twitter-181717?style=flat-square&logo=twitter&logoColor=white)](https://x.com/bailiev_7)
-[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/bailiev_7)
+[![X](https://img.shields.io/badge/X-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/bailiev_7)
 ---
 
 *Открыт к новым проектам и возможностям сотрудничества.*
